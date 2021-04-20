@@ -1,0 +1,74 @@
+D:\ornekler\C#_net\stok_programi\stok_programi\bin\Debug\stok_programi.exe
+D:\ornekler\C#_net\stok_programi\stok_programi\bin\Debug\stok_programi.pdb
+D:\ornekler\C#_net\stok_programi\stok_programi\obj\Debug\ResolveAssemblyReference.cache
+D:\ornekler\C#_net\stok_programi\stok_programi\obj\Debug\stok_programi.Form1.resources
+D:\ornekler\C#_net\stok_programi\stok_programi\obj\Debug\stok_programi.Properties.Resources.resources
+D:\ornekler\C#_net\stok_programi\stok_programi\obj\Debug\stok_programi.csproj.GenerateResource.Cache
+D:\ornekler\C#_net\stok_programi\stok_programi\obj\Debug\stok_programi.exe
+D:\ornekler\C#_net\stok_programi\stok_programi\obj\Debug\stok_programi.pdb
+D:\ornekler\C#_net\stok_programi_id_liii\stok_programi\obj\Debug\stok_programi.exe
+D:\ornekler\C#_net\stok_programi_id_liii\stok_programi\obj\Debug\stok_programi.pdb
+D:\ornekler\C#_net\stok_programi_id_liii\stok_programi\bin\Debug\stok_programi.exe
+D:\ornekler\C#_net\stok_programi_id_liii\stok_programi\bin\Debug\stok_programi.pdb
+D:\ornekler\C#_net\stok_programi_id_liii\stok_programi\obj\Debug\ResolveAssemblyReference.cache
+D:\ornekler\C#_net\stok_programi_id_liii\stok_programi\obj\Debug\stok_programi.Form1.resources
+D:\ornekler\C#_net\stok_programi_id_liii\stok_programi\obj\Debug\stok_programi.Properties.Resources.resources
+D:\ornekler\C#_net\stok_programi_id_liii\stok_programi\obj\Debug\stok_programi.csproj.GenerateResource.Cache
+C:\Users\hasan\Desktop\stok_programi_id_liii\stok_programi\obj\Debug\stok_programi.exe
+C:\Users\hasan\Desktop\stok_programi_id_liii\stok_programi\obj\Debug\stok_programi.pdb
+C:\Users\hasan\Desktop\stok_programi_id_liii\stok_programi\bin\Debug\stok_programi.exe
+C:\Users\hasan\Desktop\stok_programi_id_liii\stok_programi\bin\Debug\stok_programi.pdb
+C:\Users\hasan\Desktop\stok_programi_id_liii\stok_programi\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hasan\Desktop\stok_programi_id_liii\stok_programi\obj\Debug\stok_programi.Form1.resources
+C:\Users\hasan\Desktop\stok_programi_id_liii\stok_programi\obj\Debug\stok_programi.Properties.Resources.resources
+C:\Users\hasan\Desktop\stok_programi_id_liii\stok_programi\obj\Debug\stok_programi.csproj.GenerateResource.Cache
+C:\Users\hasan\Desktop\asil\stok_programi_id_liii\stok_programi\obj\Debug\stok_programi.exe
+C:\Users\hasan\Desktop\asil\stok_programi_id_liii\stok_programi\obj\Debug\stok_programi.pdb
+C:\Users\hasan\Desktop\stok_programi\stok_programi\obj\Debug\stok_programi.exe
+C:\Users\hasan\Desktop\stok_programi\stok_programi\obj\Debug\stok_programi.pdb
+D:\ornekler\C#_net\stok_programi_calisan_id_li\stok_programi\obj\Debug\stok_programi.exe
+D:\ornekler\C#_net\stok_programi_calisan_id_li\stok_programi\obj\Debug\stok_programi.pdb
+C:\Users\hasan\Desktop\Yeni klasör\stok_programi\stok_programi\obj\Debug\stok_programi.exe
+C:\Users\hasan\Desktop\Yeni klasör\stok_programi\stok_programi\obj\Debug\stok_programi.pdb
+C:\Users\hasan\Desktop\Yeni klasör\stok_programi\stok_programi\bin\Debug\stok_programi.exe
+C:\Users\hasan\Desktop\Yeni klasör\stok_programi\stok_programi\bin\Debug\stok_programi.pdb
+C:\Users\hasan\Desktop\Yeni klasör\stok_programi\stok_programi\obj\Debug\stok_programi.csprojResolveAssemblyReference.cache
+C:\Users\hasan\Desktop\Yeni klasör\stok_programi\stok_programi\obj\Debug\stok_programi.Form1.resources
+C:\Users\hasan\Desktop\Yeni klasör\stok_programi\stok_programi\obj\Debug\stok_programi.Properties.Resources.resources
+C:\Users\hasan\Desktop\Yeni klasör\stok_programi\stok_programi\obj\Debug\stok_programi.csproj.GenerateResource.Cache
+C:\Users\ArdaRewind\Desktop\stok_programi\stok_programi\obj\Debug\stok_programi.exe
+C:\Users\ArdaRewind\Desktop\stok_programi\stok_programi\obj\Debug\stok_programi.pdb
+C:\Users\ArdaRewind\Desktop\stok_programi\stok_programi\bin\Debug\stok_programi.exe
+C:\Users\ArdaRewind\Desktop\stok_programi\stok_programi\bin\Debug\stok_programi.pdb
+C:\Users\ArdaRewind\Desktop\stok_programi\stok_programi\obj\Debug\stok_programi.csprojResolveAssemblyReference.cache
+C:\Users\ArdaRewind\Desktop\stok_programi\stok_programi\obj\Debug\stok_programi.Form1.resources
+C:\Users\ArdaRewind\Desktop\stok_programi\stok_programi\obj\Debug\stok_programi.Properties.Resources.resources
+C:\Users\ArdaRewind\Desktop\stok_programi\stok_programi\obj\Debug\stok_programi.csproj.GenerateResource.Cache
+C:\Users\ArdaRewind\Desktop\Quick China Depo\stok_programi\obj\Debug\stok_programi.exe
+C:\Users\ArdaRewind\Desktop\Quick China Depo\stok_programi\obj\Debug\stok_programi.pdb
+C:\Users\ArdaRewind\Desktop\Quick China Depo\stok_programi\bin\Debug\stok_programi.exe
+C:\Users\ArdaRewind\Desktop\Quick China Depo\stok_programi\bin\Debug\stok_programi.pdb
+C:\Users\ArdaRewind\Desktop\Quick China Depo\stok_programi\obj\Debug\stok_programi.csprojResolveAssemblyReference.cache
+C:\Users\ArdaRewind\Desktop\Quick China Depo\stok_programi\obj\Debug\stok_programi.Form1.resources
+C:\Users\ArdaRewind\Desktop\Quick China Depo\stok_programi\obj\Debug\stok_programi.Properties.Resources.resources
+C:\Users\ArdaRewind\Desktop\Quick China Depo\stok_programi\obj\Debug\stok_programi.csproj.GenerateResource.Cache
+C:\Users\Shely\Desktop\Yedekler\Quick China Depo\stok_programi\obj\Debug\stok_programi.exe
+C:\Users\Shely\Desktop\Yedekler\Quick China Depo\stok_programi\obj\Debug\stok_programi.pdb
+C:\Users\Shely\Desktop\Yedekler\Quick China Depo\stok_programi\bin\Debug\stok_programi.exe
+C:\Users\Shely\Desktop\Yedekler\Quick China Depo\stok_programi\bin\Debug\stok_programi.pdb
+C:\Users\Shely\Desktop\Yedekler\Quick China Depo\stok_programi\obj\Debug\stok_programi.csprojResolveAssemblyReference.cache
+C:\Users\Shely\Desktop\Yedekler\Quick China Depo\stok_programi\obj\Debug\stok_programi.login_sc_arda.resources
+C:\Users\Shely\Desktop\Yedekler\Quick China Depo\stok_programi\obj\Debug\stok_programi.Form1.resources
+C:\Users\Shely\Desktop\Yedekler\Quick China Depo\stok_programi\obj\Debug\stok_programi.Properties.Resources.resources
+C:\Users\Shely\Desktop\Yedekler\Quick China Depo\stok_programi\obj\Debug\stok_programi.csproj.GenerateResource.Cache
+C:\Users\Shely\Desktop\Arda\Yedekler\Quick China Depo\stok_programi\obj\Debug\stok_programi.exe
+C:\Users\Shely\Desktop\Arda\Yedekler\Quick China Depo\stok_programi\obj\Debug\stok_programi.pdb
+C:\Users\Shely\Yedekler\Quick China Depo\stok_programi\obj\Debug\stok_programi.exe
+C:\Users\Shely\Yedekler\Quick China Depo\stok_programi\obj\Debug\stok_programi.pdb
+C:\Users\Shely\Yedekler\Quick China Depo\stok_programi\bin\Debug\stok_programi.exe
+C:\Users\Shely\Yedekler\Quick China Depo\stok_programi\bin\Debug\stok_programi.pdb
+C:\Users\Shely\Yedekler\Quick China Depo\stok_programi\obj\Debug\stok_programi.csprojResolveAssemblyReference.cache
+C:\Users\Shely\Yedekler\Quick China Depo\stok_programi\obj\Debug\stok_programi.login_sc_arda.resources
+C:\Users\Shely\Yedekler\Quick China Depo\stok_programi\obj\Debug\stok_programi.Form1.resources
+C:\Users\Shely\Yedekler\Quick China Depo\stok_programi\obj\Debug\stok_programi.Properties.Resources.resources
+C:\Users\Shely\Yedekler\Quick China Depo\stok_programi\obj\Debug\stok_programi.csproj.GenerateResource.Cache
